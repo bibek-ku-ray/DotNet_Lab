@@ -1,0 +1,6 @@
+D:\College\dotNet\bibek lab\Struct_407\bin\Debug\Struct_407.exe.config
+D:\College\dotNet\bibek lab\Struct_407\bin\Debug\Struct_407.exe
+D:\College\dotNet\bibek lab\Struct_407\bin\Debug\Struct_407.pdb
+D:\College\dotNet\bibek lab\Struct_407\obj\Debug\Struct_407.csproj.CoreCompileInputs.cache
+D:\College\dotNet\bibek lab\Struct_407\obj\Debug\Struct_407.exe
+D:\College\dotNet\bibek lab\Struct_407\obj\Debug\Struct_407.pdb

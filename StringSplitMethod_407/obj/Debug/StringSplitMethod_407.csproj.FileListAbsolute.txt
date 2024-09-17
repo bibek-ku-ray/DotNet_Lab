@@ -1,0 +1,6 @@
+D:\College\dotNet\bibek lab\StringSplitMethod_407\bin\Debug\StringSplitMethod_407.exe.config
+D:\College\dotNet\bibek lab\StringSplitMethod_407\bin\Debug\StringSplitMethod_407.exe
+D:\College\dotNet\bibek lab\StringSplitMethod_407\bin\Debug\StringSplitMethod_407.pdb
+D:\College\dotNet\bibek lab\StringSplitMethod_407\obj\Debug\StringSplitMethod_407.csproj.CoreCompileInputs.cache
+D:\College\dotNet\bibek lab\StringSplitMethod_407\obj\Debug\StringSplitMethod_407.exe
+D:\College\dotNet\bibek lab\StringSplitMethod_407\obj\Debug\StringSplitMethod_407.pdb

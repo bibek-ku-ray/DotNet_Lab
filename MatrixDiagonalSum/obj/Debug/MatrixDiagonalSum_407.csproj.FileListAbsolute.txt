@@ -1,0 +1,6 @@
+D:\College\dotNet\bibek lab\MatrixDiagonalSum\bin\Debug\MatrixDiagonalSum.exe.config
+D:\College\dotNet\bibek lab\MatrixDiagonalSum\bin\Debug\MatrixDiagonalSum.exe
+D:\College\dotNet\bibek lab\MatrixDiagonalSum\bin\Debug\MatrixDiagonalSum.pdb
+D:\College\dotNet\bibek lab\MatrixDiagonalSum\obj\Debug\MatrixDiagonalSum_407.csproj.CoreCompileInputs.cache
+D:\College\dotNet\bibek lab\MatrixDiagonalSum\obj\Debug\MatrixDiagonalSum.exe
+D:\College\dotNet\bibek lab\MatrixDiagonalSum\obj\Debug\MatrixDiagonalSum.pdb

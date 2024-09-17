@@ -1,0 +1,6 @@
+D:\College\dotNet\bibek lab\AutoImplemented_407\bin\Debug\AutoImplemented_407.exe.config
+D:\College\dotNet\bibek lab\AutoImplemented_407\bin\Debug\AutoImplemented_407.exe
+D:\College\dotNet\bibek lab\AutoImplemented_407\bin\Debug\AutoImplemented_407.pdb
+D:\College\dotNet\bibek lab\AutoImplemented_407\obj\Debug\AutoImplemented_407.csproj.CoreCompileInputs.cache
+D:\College\dotNet\bibek lab\AutoImplemented_407\obj\Debug\AutoImplemented_407.exe
+D:\College\dotNet\bibek lab\AutoImplemented_407\obj\Debug\AutoImplemented_407.pdb
